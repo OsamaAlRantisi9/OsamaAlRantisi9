@@ -11,8 +11,9 @@
 - **Backend:** Node.js · Express · Socket.io · REST APIs · JWT · MongoDB · SQL
 - **Frontend:** React · Vite · RTL & Arabic/English i18n
 - **Mobile:** React Native · Expo · EAS
-- **AI:** Google Gemini API
+- **AI:** Google Gemini API in production · Claude, ChatGPT and Gemini as daily dev tools
 - **Ops:** Render · Git · automated backups
+- **Also:** Java · C++ (OOP, from university)
 - **Learning now:** C# · ASP.NET Core
 
 ### 📫 Reach me
