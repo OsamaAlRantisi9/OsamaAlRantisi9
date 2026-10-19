@@ -8,13 +8,15 @@
 → [Read the case study](https://github.com/OsamaAlRantisi9/dirs)
 
 ### 🧪 Projects
+- **[kalimat](https://github.com/OsamaAlRantisi9/kalimat)** ([live](https://kalimat-ddd34.web.app)): Arabic vocabulary flashcards for learners of Levantine and FusHa, with spaced repetition, browser pronunciation, an admin panel, and Firestore security rules that check ownership and validate every write. Built with React, SASS and Firebase.
 - **[gitops-platform](https://github.com/OsamaAlRantisi9/gitops-platform)**: a containerized API delivered through CI/CD and GitOps, with a hardened Docker image, Kubernetes + Kustomize overlays, and GitHub Actions running Trivy, gitleaks, SBOM generation and automatic promotion to staging.
 - **[sql-inventory-orders](https://github.com/OsamaAlRantisi9/sql-inventory-orders)**: a SQL Server inventory and sales-order database with concurrency-safe stored procedures, tests and a verified backup/restore.
 
 ### 🛠 What I work with
 - **Backend:** Node.js · Express · Socket.io · RESTful APIs · JWT
-- **Databases:** MongoDB · SQL Server (T-SQL, stored procedures, transactions)
-- **Frontend:** React · Vite · Redux Toolkit · RTL & Arabic/English i18n
+- **Databases:** MongoDB · SQL Server (T-SQL, stored procedures, transactions) · Cloud Firestore
+- **Frontend:** React · Vite · Redux Toolkit · SASS · RTL & Arabic/English i18n
+- **Firebase:** Authentication · Firestore security rules · Hosting
 - **Testing:** Jest · Supertest · Vitest · node:test
 - **Mobile:** React Native · Expo · EAS
 - **AI:** LLM API in production (schema-validated output, timeouts, fallbacks) · Claude Code and ChatGPT as daily dev tools
