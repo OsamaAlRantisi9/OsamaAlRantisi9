@@ -9,6 +9,8 @@
 
 ### 🧪 Projects
 - **[kalimat](https://github.com/OsamaAlRantisi9/kalimat)** ([live](https://kalimat-ddd34.web.app)): Arabic vocabulary flashcards for learners of Levantine and FusHa, with spaced repetition, browser pronunciation, an admin panel, and Firestore security rules that check ownership and validate every write. Built with React, SASS and Firebase.
+- **[dirs-booking-api](https://github.com/OsamaAlRantisi9/dirs-booking-api)**: the booking core of Dirs rebuilt in C# with ASP.NET Core 8, EF Core and SQL Server. One conditional update claims a slot and a filtered unique index backs it up, so two patients can never book the same slot; integration tests fire 20 parallel bookings at one slot.
+- **[therapy-booking-api](https://github.com/OsamaAlRantisi9/therapy-booking-api)**: a Laravel API for booking therapy sessions, with race-safe booking, payment webhooks verified by HMAC and applied exactly once, and unpaid bookings that expire on their own. CI runs the tests on SQLite and MySQL 8.
 - **[gitops-platform](https://github.com/OsamaAlRantisi9/gitops-platform)**: a containerized API delivered through CI/CD and GitOps, with a hardened Docker image, Kubernetes + Kustomize overlays, and GitHub Actions running Trivy, gitleaks, SBOM generation and automatic promotion to staging.
 - **[sql-inventory-orders](https://github.com/OsamaAlRantisi9/sql-inventory-orders)**: a SQL Server inventory and sales-order database with concurrency-safe stored procedures, tests and a verified backup/restore.
 
